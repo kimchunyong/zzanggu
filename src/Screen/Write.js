@@ -18,7 +18,7 @@ class Write extends Component {
                 슬꿍 남편이라서 좋고, 앞으로도 당신 옆에서 늘 사랑할께<br />
 
                 세상에서 누구보다 슬꿍을 많이 많이 사랑해<br />
-                내년 생일은 지금보다 더 좋은 관계과 되도록 노력할께<br />
+                내년 생일은 지금보다 더 좋은 관계가 되도록 노력할께<br />
                 생일 축하해.사랑해<br />
                 <small>
                     <span className="text-middle" style={{ color: 'red' }}>
