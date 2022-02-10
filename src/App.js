@@ -14,7 +14,6 @@ export default function App() {
       <Screen.Write />
       <Screen.Gallery config={config} />
       <Screen.Comment config={config} />
-      <Screen.Footer />
     </Container>
   );
 }

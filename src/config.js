@@ -81,6 +81,6 @@ export default {
     "https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=04A455F2C49700EC1AC36BC6DC30198A9F2E&outKey=V1237e0af99d9635b3d44a63718b3fc4d5cf0e9e743af71d0212ba63718b3fc4d5cf0",
     "https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=123141598827724975F6EBC562E3EE828DC7&outKey=V123400ee5a1fdd1077df231e17f531b10e29295178d917e4e7e3231e17f531b10e29",
     "https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=3CEB23151FDA056259BAADA0E50B39C32C32&outKey=V124f4b03f871a981a88c92b3e8799dce9e7a5ec4cfe4a6dea79492b3e8799dce9e7a",
-    "https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=B18A073FCDF366A272AAA63D10CC4476DF62&outKey=V122b0c525d2ac544b0399082f0dff9311a00749b0b89b7317ebf9082f0dff9311a00"
+    "https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=B18A073FCDF366A272AAA63D10CC4476DF62&outKey=V122b0c525d2ac544b0399082f0dff9311a00749b0b89b7317ebf9082f0dff9311a00",
   ]
 };
