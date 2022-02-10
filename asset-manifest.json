@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zzanggu/static/css/main.da21aad0.chunk.css",
-    "main.js": "/zzanggu/static/js/main.f5ebfcc2.chunk.js",
-    "main.js.map": "/zzanggu/static/js/main.f5ebfcc2.chunk.js.map",
+    "main.js": "/zzanggu/static/js/main.ea2a71f6.chunk.js",
+    "main.js.map": "/zzanggu/static/js/main.ea2a71f6.chunk.js.map",
     "runtime-main.js": "/zzanggu/static/js/runtime-main.48ee813f.js",
     "runtime-main.js.map": "/zzanggu/static/js/runtime-main.48ee813f.js.map",
     "static/css/2.3a5d3524.chunk.css": "/zzanggu/static/css/2.3a5d3524.chunk.css",
     "static/js/2.c9404452.chunk.js": "/zzanggu/static/js/2.c9404452.chunk.js",
     "static/js/2.c9404452.chunk.js.map": "/zzanggu/static/js/2.c9404452.chunk.js.map",
     "index.html": "/zzanggu/index.html",
-    "precache-manifest.f6d3ba4802f82ce4d60db844c46e1fcf.js": "/zzanggu/precache-manifest.f6d3ba4802f82ce4d60db844c46e1fcf.js",
+    "precache-manifest.91c4f28f5afd8ad7adbd551f5f94dbae.js": "/zzanggu/precache-manifest.91c4f28f5afd8ad7adbd551f5f94dbae.js",
     "service-worker.js": "/zzanggu/service-worker.js",
     "static/css/2.3a5d3524.chunk.css.map": "/zzanggu/static/css/2.3a5d3524.chunk.css.map",
     "static/css/main.da21aad0.chunk.css.map": "/zzanggu/static/css/main.da21aad0.chunk.css.map",
@@ -21,13 +21,13 @@
     "static/media/5.jpg": "/zzanggu/static/media/5.c9453300.jpg",
     "static/media/bridal.jpeg": "/zzanggu/static/media/bridal.0914d8b9.jpeg",
     "static/media/groom.jpeg": "/zzanggu/static/media/groom.ce7f640a.jpeg",
-    "static/media/header.jpg": "/zzanggu/static/media/header.11088f82.jpg"
+    "static/media/header.jpg": "/zzanggu/static/media/header.172a1687.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.48ee813f.js",
     "static/css/2.3a5d3524.chunk.css",
     "static/js/2.c9404452.chunk.js",
     "static/css/main.da21aad0.chunk.css",
-    "static/js/main.f5ebfcc2.chunk.js"
+    "static/js/main.ea2a71f6.chunk.js"
   ]
 }
