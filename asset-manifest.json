@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zzanggu/static/css/main.da21aad0.chunk.css",
-    "main.js": "/zzanggu/static/js/main.6ec6aace.chunk.js",
-    "main.js.map": "/zzanggu/static/js/main.6ec6aace.chunk.js.map",
+    "main.js": "/zzanggu/static/js/main.f5ebfcc2.chunk.js",
+    "main.js.map": "/zzanggu/static/js/main.f5ebfcc2.chunk.js.map",
     "runtime-main.js": "/zzanggu/static/js/runtime-main.48ee813f.js",
     "runtime-main.js.map": "/zzanggu/static/js/runtime-main.48ee813f.js.map",
     "static/css/2.3a5d3524.chunk.css": "/zzanggu/static/css/2.3a5d3524.chunk.css",
     "static/js/2.c9404452.chunk.js": "/zzanggu/static/js/2.c9404452.chunk.js",
     "static/js/2.c9404452.chunk.js.map": "/zzanggu/static/js/2.c9404452.chunk.js.map",
     "index.html": "/zzanggu/index.html",
-    "precache-manifest.9dc0a1c27fbaf9624297afd6a39486c4.js": "/zzanggu/precache-manifest.9dc0a1c27fbaf9624297afd6a39486c4.js",
+    "precache-manifest.f6d3ba4802f82ce4d60db844c46e1fcf.js": "/zzanggu/precache-manifest.f6d3ba4802f82ce4d60db844c46e1fcf.js",
     "service-worker.js": "/zzanggu/service-worker.js",
     "static/css/2.3a5d3524.chunk.css.map": "/zzanggu/static/css/2.3a5d3524.chunk.css.map",
     "static/css/main.da21aad0.chunk.css.map": "/zzanggu/static/css/main.da21aad0.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.3a5d3524.chunk.css",
     "static/js/2.c9404452.chunk.js",
     "static/css/main.da21aad0.chunk.css",
-    "static/js/main.6ec6aace.chunk.js"
+    "static/js/main.f5ebfcc2.chunk.js"
   ]
 }
